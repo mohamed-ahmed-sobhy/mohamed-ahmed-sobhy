@@ -1,14 +1,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:080B16,50:123C49,100:6C4CF1&text=Mohamed%20Ahmed&fontColor=FFFFFF&fontSize=52&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20CO-FOUNDER%20OF%20SANAY3I&descSize=13&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:080B16,50:123C49,100:6C4CF1&text=Mohamed%20Ahmed&fontColor=FFFFFF&fontSize=52&fontAlignY=42&desc=WEB%20DEVELOPER%20%7C%20CO-FOUNDER%20OF%20SANAY3I&descSize=13&descAlignY=62&animation=fadeIn" width="100%" />
 
 <br/>
 
 <a href="https://mohamed.edgeone.dev">
   <img src="https://img.shields.io/badge/PORTFOLIO-00D9B8?style=for-the-badge&logo=vercel&logoColor=08111B" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/mohamed-ahmed-sobhy">
   <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20ME-151923?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://sanay3i-eta.vercel.app/">
@@ -27,7 +27,7 @@
 
 ```javascript
 const mohamed = {
-  role: "Full-Stack Developer",
+  role: "Web Developer",
   company: "Sanay3i",
   position: "Co-Founder & Developer",
   interests: [
@@ -137,17 +137,17 @@ An ecosystem of Android applications designed for different user needs.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D9B8&icon_color=6C4CF1&text_color=E6EDF3&rank_icon=github" />
+<a href="https://github.com/mohamed-ahmed-sobhy">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamed-ahmed-sobhy&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D9B8&icon_color=6C4CF1&text_color=E6EDF3&rank_icon=github" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B16&title_color=00D9B8&text_color=E6EDF3" />
+<a href="https://github.com/mohamed-ahmed-sobhy">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ahmed-sobhy&layout=compact&hide_border=true&bg_color=080B16&title_color=00D9B8&text_color=E6EDF3" />
 </a>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=080B16&ring=6C4CF1&fire=00D9B8&currStreakLabel=00D9B8&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-ahmed-sobhy&hide_border=true&background=080B16&ring=6C4CF1&fire=00D9B8&currStreakLabel=00D9B8&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 </div>
 
