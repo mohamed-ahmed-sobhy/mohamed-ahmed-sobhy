@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/PORTFOLIO-00D9B8?style=for-the-badge&logo=vercel&logoColor=08111B" />
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB-151923?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20ME-151923?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://sanay3i-eta.vercel.app/">
   <img src="https://img.shields.io/badge/SANAY3I-6C4CF1?style=for-the-badge&logo=rocket&logoColor=white" />
@@ -18,8 +18,6 @@
 <br/><br/>
 
 *I build digital experiences, turn ideas into products, and create solutions that matter.*
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00D9B8&label=PROFILE+VISITORS" />
 
 </div>
 
@@ -50,6 +48,9 @@ As a **Co-Founder of Sanay3i**, I'm working on a digital platform designed to co
 - 💻 Developing modern, responsive web experiences.
 - 🧩 Exploring new technologies and solving problems.
 - 🔐 Interested in networking and cybersecurity.
+- 🌍 Based in Egypt.
+
+🌐 **Portfolio:** [mohamed.edgeone.dev](https://mohamed.edgeone.dev/)
 
 ---
 
@@ -57,17 +58,17 @@ As a **Co-Founder of Sanay3i**, I'm working on a digital platform designed to co
 
 <div align="center">
 
-**FRONTEND**
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
 
-**BACKEND & DATABASE**
+### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=supabase,firebase,postgres&theme=dark" />
 
-**TOOLS & DESIGN**
+### Tools & Design
 
-<img src="https://skillicons.dev/icons?i=vscode,github,figma,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,figma,vercel&theme=dark" />
 
 </div>
 
@@ -83,15 +84,17 @@ As a **Co-Founder of Sanay3i**, I'm working on a digital platform designed to co
 
 A digital platform connecting customers with skilled tradespeople.
 
-**My role:** Co-Founder & Developer
+**Role:** Co-Founder & Developer
 
 **Ecosystem**
-- Customer experience
-- Tradesperson experience
-- Supplier experience
+- 👤 Customer experience
+- 🛠️ Tradesperson experience
+- 📦 Supplier experience
+
+<br/>
 
 <a href="https://sanay3i-eta.vercel.app/">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-6C4CF1?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPLORE_SANAY3I-6C4CF1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
@@ -99,16 +102,16 @@ A digital platform connecting customers with skilled tradespeople.
 
 <h3>📱 Mobile Applications</h3>
 
-An ecosystem of Android applications built for different user needs.
+An ecosystem of Android applications designed for different user needs.
 
-**Project examples**
+**Projects**
 - Pulse Oximeter Patient App
 - Morafeq Companion App
 
-Explore my portfolio for more projects and development work.
+<br/>
 
 <a href="https://mohamed.edgeone.dev/">
-  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00D9B8?style=for-the-badge&logo=googlechrome&logoColor=black" />
+  <img src="https://img.shields.io/badge/MY_PORTFOLIO-00D9B8?style=for-the-badge&logo=googlechrome&logoColor=black" />
 </a>
 
 </td>
@@ -119,18 +122,14 @@ Explore my portfolio for more projects and development work.
 
 ## `04` — Certifications & Learning
 
-<div align="center">
-
-| Area | Certification / Program |
-|:---|:---|
+| Field | Certification / Program |
+|:--|:--|
 | 🌐 Networking | Cisco Certified Support Technician (CCST) |
-| 🔐 Security | Introduction to Cybersecurity — Cisco |
-| 🤖 AI | Introduction to Modern AI — Cisco |
-| 🧠 AI | AI Fundamentals — IBM SkillsBuild |
-| 🌐 Networking | Network Support and Security — Cisco |
+| 🔐 Cybersecurity | Introduction to Cybersecurity — Cisco |
+| 🤖 Artificial Intelligence | Introduction to Modern AI — Cisco |
+| 🧠 AI Fundamentals | IBM SkillsBuild |
+| 🌐 Network Security | Network Support and Security — Cisco |
 | 💻 Technology | Digital Egypt Cubs Initiative — Levels 1 & 2 |
-
-</div>
 
 ---
 
@@ -141,6 +140,7 @@ Explore my portfolio for more projects and development work.
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D9B8&icon_color=6C4CF1&text_color=E6EDF3&rank_icon=github" />
 </a>
+
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B16&title_color=00D9B8&text_color=E6EDF3" />
 </a>
@@ -167,8 +167,16 @@ Explore my portfolio for more projects and development work.
 
 Open to collaborations, freelance opportunities, and connecting with fellow developers.
 
+<br/>
+
 <a href="https://mohamed.edgeone.dev/">
   <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-00D9B8?style=for-the-badge&logo=vercel&logoColor=08111B" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/mohamed-ahmed-sobhy">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-6C4CF1?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
