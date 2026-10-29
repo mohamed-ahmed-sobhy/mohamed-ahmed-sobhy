@@ -11,7 +11,7 @@
 <a href="https://github.com/mohamed-ahmed-sobhy">
   <img src="https://img.shields.io/badge/GITHUB-FOLLOW%20ME-151923?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://sanay3i-eta.vercel.app/">
+<a href="https://sanay3i.edgeone.dev/">
   <img src="https://img.shields.io/badge/SANAY3I-6C4CF1?style=for-the-badge&logo=rocket&logoColor=white" />
 </a>
 
@@ -93,7 +93,7 @@ A digital platform connecting customers with skilled tradespeople.
 
 <br/>
 
-<a href="https://sanay3i-eta.vercel.app/">
+<a href="https://sanay3i.edgeone.dev/">
   <img src="https://img.shields.io/badge/EXPLORE_SANAY3I-6C4CF1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
