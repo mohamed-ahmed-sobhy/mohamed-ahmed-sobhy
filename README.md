@@ -1,159 +1,178 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Mohamed Ahmed
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:080B16,50:123C49,100:6C4CF1&text=Mohamed%20Ahmed&fontColor=FFFFFF&fontSize=52&fontAlignY=42&desc=FULL-STACK%20DEVELOPER%20%7C%20CO-FOUNDER%20OF%20SANAY3I&descSize=13&descAlignY=62&animation=fadeIn" width="100%" />
 
-### Full-Stack Developer | Co-Founder of Sanay3i 🚀
+<br/>
 
-Building ideas into real digital experiences.
+<a href="https://mohamed.edgeone.dev">
+  <img src="https://img.shields.io/badge/PORTFOLIO-00D9B8?style=for-the-badge&logo=vercel&logoColor=08111B" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GITHUB-151923?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://sanay3i-eta.vercel.app/">
+  <img src="https://img.shields.io/badge/SANAY3I-6C4CF1?style=for-the-badge&logo=rocket&logoColor=white" />
+</a>
 
-<p>
-  <a href="https://mohamed.edgeone.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:dev.mohamed.sobhy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%" alt="Developer coding" />
+*I build digital experiences, turn ideas into products, and create solutions that matter.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00C7B7&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00D9B8&label=PROFILE+VISITORS" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `01` — About Me
 
-I'm Mohamed Ahmed, a Full-Stack Developer passionate about building modern, responsive, and practical digital products.
+```javascript
+const mohamed = {
+  role: "Full-Stack Developer",
+  company: "Sanay3i",
+  position: "Co-Founder & Developer",
+  interests: [
+    "Web Development",
+    "Building Startups",
+    "UI/UX Design",
+    "Cybersecurity"
+  ],
+  mindset: "Learn. Build. Improve. Repeat."
+};
+```
 
-I enjoy turning ideas into real-world applications, developing clean user interfaces, and building functional web platforms and Android applications.
+I'm a developer passionate about building modern web applications and turning creative ideas into real-world products.
 
-- 💻 Focused on Full-Stack Web Development.
-- 🚀 Co-Founder of **Sanay3i**.
-- 📱 Built web platforms and Android applications.
-- 🎨 Interested in UI/UX and responsive design.
-- 🔐 Exploring Networking and Cybersecurity.
-- 🤖 Learning more about Artificial Intelligence.
-- 🌍 Based in Egypt.
-- 💼 Open to freelance projects and collaborations.
+As a **Co-Founder of Sanay3i**, I'm working on a digital platform designed to connect customers with skilled tradespeople.
 
-🌐 **Portfolio:** https://mohamed.edgeone.dev
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
-### 🗄️ Backend & Database
-
-<p>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
-</p>
-
-### 📱 Development & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-FF61F6?style=for-the-badge" />
-</p>
-
-### 🔐 Other Interests
-
-- Networking fundamentals
-- Cybersecurity basics
-- Artificial Intelligence fundamentals
-- Problem solving and continuous learning
+- 🚀 Building products and startup ideas.
+- 💻 Developing modern, responsive web experiences.
+- 🧩 Exploring new technologies and solving problems.
+- 🔐 Interested in networking and cybersecurity.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔧 Sanay3i — Digital Services Ecosystem
-
-A platform connecting customers with skilled tradespeople through a dedicated digital ecosystem.
-
-- 👤 Sanay3i Customer — Customer experience.
-- 🛠️ Sanay3i Fixer — Tradesperson experience.
-- 📦 Sanay3i Supplier — Supplier experience.
-
-**Role:** Co-Founder & Developer
-
-🌐 [Visit Sanay3i](https://sanay3i-eta.vercel.app/)
-
-### 🫁 Pulse Oximeter Ecosystem
-
-A mobile application ecosystem designed for different user needs.
-
-- 📱 Pulse Oximeter Patient App.
-- 🤝 Morafeq Companion App.
-
-### 🌐 Other Projects
-
-Explore my portfolio for more web platforms, applications, and development projects.
-
-**13 projects · 5 Android apps**
-
-🌐 [Explore All Projects](https://mohamed.edgeone.dev/)
-
----
-
-## 🏆 Certifications & Learning
-
-- 🥇 Cisco Certified Support Technician (CCST) — Networking.
-- 🔐 Introduction to Cybersecurity — Cisco Networking Academy.
-- 🤖 Introduction to Modern AI — Cisco Networking Academy.
-- 🧠 AI Fundamentals with IBM SkillsBuild.
-- 🌐 Network Support and Security — Cisco Networking Academy.
-- 💻 Digital Egypt Cubs Initiative — Levels 1 & 2.
-
----
-
-## 📊 GitHub Statistics
+## `02` — Tech Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+**FRONTEND**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+**BACKEND & DATABASE**
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,git&theme=dark" />
+
+**TOOLS & DESIGN**
+
+<img src="https://skillicons.dev/icons?i=vscode,github,figma,vercel&theme=dark" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## `03` — Featured Projects
 
-I'm always interested in building useful products, collaborating with developers, and exploring new opportunities.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🌐 Portfolio: [mohamed.edgeone.dev](https://mohamed.edgeone.dev)
-- 💻 GitHub: [My Repositories](https://github.com/YOUR_GITHUB_USERNAME)
-- 📧 Email: [dev.mohamed.sobhy@gmail.com](mailto:dev.mohamed.sobhy@gmail.com)
+<h3>🚀 Sanay3i</h3>
+
+A digital platform connecting customers with skilled tradespeople.
+
+**My role:** Co-Founder & Developer
+
+**Ecosystem**
+- Customer experience
+- Tradesperson experience
+- Supplier experience
+
+<a href="https://sanay3i-eta.vercel.app/">
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-6C4CF1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📱 Mobile Applications</h3>
+
+An ecosystem of Android applications built for different user needs.
+
+**Project examples**
+- Pulse Oximeter Patient App
+- Morafeq Companion App
+
+Explore my portfolio for more projects and development work.
+
+<a href="https://mohamed.edgeone.dev/">
+  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00D9B8?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
+## `04` — Certifications & Learning
+
 <div align="center">
 
-### 💡 Turning ideas into products, one line of code at a time.
+| Area | Certification / Program |
+|:---|:---|
+| 🌐 Networking | Cisco Certified Support Technician (CCST) |
+| 🔐 Security | Introduction to Cybersecurity — Cisco |
+| 🤖 AI | Introduction to Modern AI — Cisco |
+| 🧠 AI | AI Fundamentals — IBM SkillsBuild |
+| 🌐 Networking | Network Support and Security — Cisco |
+| 💻 Technology | Digital Egypt Cubs Initiative — Levels 1 & 2 |
 
-**Thanks for visiting my profile! ⭐**
+</div>
+
+---
+
+## `05` — GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D9B8&icon_color=6C4CF1&text_color=E6EDF3&rank_icon=github" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080B16&title_color=00D9B8&text_color=E6EDF3" />
+</a>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=080B16&ring=6C4CF1&fire=00D9B8&currStreakLabel=00D9B8&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+
+</div>
+
+---
+
+## `06` — Beyond the Code
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/BUILDING-Products-00D9B8?style=flat-square" />
+<img src="https://img.shields.io/badge/EXPLORING-New%20Tech-6C4CF1?style=flat-square" />
+<img src="https://img.shields.io/badge/THINKING-Entrepreneurially-00D9B8?style=flat-square" />
+
+<br/><br/>
+
+### Let's build something meaningful.
+
+Open to collaborations, freelance opportunities, and connecting with fellow developers.
+
+<a href="https://mohamed.edgeone.dev/">
+  <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-00D9B8?style=for-the-badge&logo=vercel&logoColor=08111B" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C4CF1,100:00D9B8&height=100&section=footer" width="100%" />
 
 </div>
